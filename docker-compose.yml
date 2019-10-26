@@ -1,0 +1,12 @@
+version: "3"
+services:
+  dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: naokikomiya/kaggle
+    # ports:
+    # - "8888:8888"
+    volumes:
+      - .:/root/dev
+# docker run --rm -it --mount type=bind,src=`pwd`,dst=/root/dev naokikomiya/kaggle
