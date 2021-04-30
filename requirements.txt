@@ -424,7 +424,7 @@ retrying==1.3.3
 revrand==0.6.5
 rf-perm-feat-import==0.1
 rope==0.11.0
-rsa==4.0
+rsa==4.7
 ruamel-yaml==0.15.46
 s2sphere==0.2.5
 s3fs==0.1.6
