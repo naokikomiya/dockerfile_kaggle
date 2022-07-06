@@ -244,7 +244,7 @@ line-profiler==2.1.2
 llvmlite==0.25.0
 lml==0.0.4
 locket==0.2.0
-lxml==4.2.5
+lxml==4.9.1
 marisa-trie==0.7.5
 Markdown==3.0.1
 markovify==0.7.1
