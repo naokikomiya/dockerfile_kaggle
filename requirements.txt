@@ -254,7 +254,7 @@ matplotlib-venn==0.11.5
 mccabe==0.6.1
 memory-profiler==0.54.0
 missingno==0.4.1
-mistune==0.8.3
+mistune==2.0.3
 mizani==0.5.0
 ml-metrics==0.1.4
 mlcrate==0.2.0
