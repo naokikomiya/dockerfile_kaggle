@@ -521,7 +521,7 @@ vega3==0.13.0
 vida==0.3
 visvis==1.11.1
 -e git+https://github.com/JohnLangford/vowpal_wabbit.git@9195fa2667fe9b720683a5df9c89c305a2cadcf9#egg=vowpalwabbit&subdirectory=python
-vtk==8.1.1
+vtk==9.0.1
 wavio==0.0.4
 wcwidth==0.1.7
 webencodings==0.5.1
