@@ -189,7 +189,7 @@ imbalanced-learn==0.5.0.dev0
 imgaug==0.2.6
 implicit==0.3.8
 ipykernel==5.0.0
-ipython==7.0.1
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 iso3166==0.9
