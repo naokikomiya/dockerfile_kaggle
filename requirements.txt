@@ -202,7 +202,7 @@ jdcal==1.4
 jedi==0.15.1
 jeepney==0.4
 jieba==0.39
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 joblib==0.12.5
 jsonpickle==0.9.6
